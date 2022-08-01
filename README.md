@@ -11,3 +11,6 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis nemo, repellat ius
 
 ## new Addition
 Trying to utilize some knowledge of git for practising.
+
+## newly added additions
+Trying to learn how to view the difference in code before commit
