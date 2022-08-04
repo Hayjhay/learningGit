@@ -1,7 +1,7 @@
 # learningGit
 
 ## deploying site
-Readme shows how the files can be accessed.
+To say something else (master branch)
 
 ## Developer
 
