@@ -1,8 +1,8 @@
 # learningGit
 
 ## deploying site
-Readme shows how the files can be accessed.
+Some other works in here by the stash branch
 
 ## Developer
 
-Developed by @williamsdev
+Edited by @williamsdev
