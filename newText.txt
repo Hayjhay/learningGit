@@ -1,2 +1,3 @@
 new branch file onnly shows up in the new branch
 
+new branch file now shows in the main branch too
